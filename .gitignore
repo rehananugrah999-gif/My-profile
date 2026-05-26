@@ -1,0 +1,62 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pip-lock
+requirements.lock
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Build & Output
+dist/
+build/
+out/
+*.o
+*.pyc
+__pycache__/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+docker-compose.override.yml
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
