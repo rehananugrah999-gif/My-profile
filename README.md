@@ -51,8 +51,8 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehananugrah999-gif&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehananugrah999-gif&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryezenn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezenn&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ## 🌟 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehananugrah999-gif&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryezenn&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -78,7 +78,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 I'm working on various projects. Feel free to explore my repositories and see what I'm building!
 
-**⭐ [Check Out All My Projects](https://github.com/rehananugrah999-gif?tab=repositories)**
+**⭐ [Check Out All My Projects](https://github.com/Ryezenn?tab=repositories)**
 
 ---
 
@@ -86,10 +86,10 @@ I'm working on various projects. Feel free to explore my repositories and see wh
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehananugrah999-gif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryezenn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm working on various projects. Feel free to explore my repositories and see wh
 
 <div align="center">
 
-[![Rehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rehananugrah999-gif&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryezenn&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -138,7 +138,7 @@ Check my repositories for the latest projects I'm working on!
 
 **Feel free to ⭐ my repositories if you find them useful!**
 
-<img src="https://komarev.com/ghpvc/?username=rehananugrah999-gif&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ryezenn&color=blue" alt="Profile Views" />
 
 </div>
 
